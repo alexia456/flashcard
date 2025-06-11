@@ -1,23 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'historia',
+    'O que foi o imperialismo no séc xix?',
+    'Dominio de países europeus sobre territorios na áfrica,ásia e oceania.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'historia',
+    'Quais países lideram o imperialismo?',
+    'Reino Unido, França, Alemanha, Belgica,Itália,Eua e Japãos.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'historia',
+    'O que foi a conferência de Berlim?',
+    'Reunião que dividiu a África entre os países europeus.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'historia',
+    'Como os povos colonizados foram afetados?',
+    'Foram explorados, perderam culturas e sofreram violência.'
+)
+criaCartao(
+    'historia',
+    'O que é Darwinismo social?',
+    'Ideia usada  para justificar a superioridade europeia'
+)
+criaCartao(
+    'historia',
+    'Qual a ligação com a Revolução Industrial?',
+    'Aumenta a busca por matérias-primas e mercados.'
 )
